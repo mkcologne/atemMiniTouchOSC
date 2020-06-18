@@ -6,6 +6,7 @@ Download it [here](https://github.com/mkcologne/atemMiniTouchOSC/blob/master/Ate
 v.0.9 Initial Relase.
 
 Use it with [AtemOSC](https://github.com/danielbuechele/atemOSC)
+
 Credits to [Daniel Büchele](https://github.com/danielbuechele) and [Peter Steffey](https://github.com/SteffeyDev) for this awesome tool!
 
 Some commands works with Macros.
