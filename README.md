@@ -1,6 +1,8 @@
 # atemMiniTouchOSC
 Full TouchOSC Setup for Atem Mini Pro
 
+Download it [here](https://github.com/mkcologne/atemMiniTouchOSC/blob/master/AtemMiniPro0.9.touchosc)
+
 Some commands works with Macros.
 Instructions at the end of the ReadMe.
 
