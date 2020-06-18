@@ -3,6 +3,11 @@ Full TouchOSC Setup for Atem Mini Pro
 
 Download it [here](https://github.com/mkcologne/atemMiniTouchOSC/blob/master/AtemMiniPro0.9.touchosc)
 
+v.0.9 Initial Relase.
+
+Use it with [AtemOSC](https://github.com/danielbuechele/atemOSC)
+Credits to [Daniel Büchele](https://github.com/danielbuechele) and [Peter Steffey](https://github.com/SteffeyDev) for this awesome tool!
+
 Some commands works with Macros.
 Instructions at the end of the ReadMe.
 
